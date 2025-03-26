@@ -2,4 +2,4 @@
 -
 -
 -
-- ![000041.JPG](../assets/000041_1742926331908_0.JPG){:height 1174, :width 778}
+- ![000041.JPG](../assets/stadium0.JPG){:height 1174, :width 778}
