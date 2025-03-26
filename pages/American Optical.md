@@ -1,3 +1,5 @@
 - https://www.facebook.com/photo/?fbid=1762684024306745&set=pcb.2678398422364558
-- ![อาจเป็นรูปภาพของ แว่นกันแดด และ ข้อความ](https://scontent.fbkk22-2.fna.fbcdn.net/v/t39.30808-6/473704165_1762684540973360_4735191426937002297_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeEkaAXcSRR6ifeOonDQFBQqPXY-9aMQrUw9dj71oxCtTN0jLc_KPDG179dW4Q4BAohAoLXUJpdd6sBh8pekEyIq&_nc_ohc=fq573is5xn0Q7kNvgEHotvC&_nc_oc=AdjBHk9ewDAR5x-VpguEruEd77IJv4-IeO4aA-m-oV2hQlXZCpIU6MN1x0brH8trJBAZZ9GTrp719rIOIbl2QFGx&_nc_zt=23&_nc_ht=scontent.fbkk22-2.fna&_nc_gid=AhdHPRuHyNf4d2mzfQ3REKh&oh=00_AYAcpJTSnfMvFVD46UFjKvmmm8O62vKW24OGFPZSOpZlwA&oe=67903379){:height 646, :width 638}
 -
+-
+-
+- ![000041.JPG](../assets/000041_1742926331908_0.JPG){:height 1174, :width 778}
