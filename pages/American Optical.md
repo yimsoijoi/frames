@@ -1,5 +1,5 @@
-- https://www.facebook.com/photo/?fbid=1762684024306745&set=pcb.2678398422364558
+- American optical is the american optical brand
 -
 -
 -
-- ![000041.JPG](../assets/stadium0.JPG){:height 1174, :width 778}
+- ![000041.JPG](../assets/stadium0.jpg){:height 1174, :width 778}
